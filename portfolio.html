@@ -36,39 +36,42 @@
     <header class="jumbotron jumbotron-fluid">
       <div class="container">
         <!-- set the title of the page as James Rowe -->
-        <h1 class="display-4">James Rowe</h1>
+        <div class="row justify-content-center">
+          <h1 class="display-4">James Rowe</h1>
+        </div>
+        <div class="row justify-content-center">
+          <!-- set up a navigation bar -->
+          <nav class="navbar navbar-expand-lg navbar-light" id="navbar">
+            <!-- set link saying Home to go to index.html -->
+            <a class="navbar-brand" href="./index.html">Home</a>
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-toggle="collapse"
+              data-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
 
-        <!-- set up a navigation bar -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary" id="navbar">
-          <!-- set link saying Home to go to index.html -->
-          <a class="navbar-brand" href="./index.html">Home</a>
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span class="navbar-toggler-icon"></span>
-          </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <!-- set link saying Home to go to index.html -->
 
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
-              <!-- set link saying Home to go to index.html -->
-
-              <!-- set link saying Portfolio goes to portfolio.html -->
-              <li class="nav-item">
-                <a class="nav-link" href="./portfolio.html">Portfolio</a>
-              </li>
-              <!-- set link saying Contact James goes to contact.html -->
-              <li class="nav-item">
-                <a class="nav-link" href="./contact.html">Contact James</a>
-              </li>
-            </ul>
-          </div>
-        </nav>
+                <!-- set link saying Portfolio goes to portfolio.html -->
+                <li class="nav-item">
+                  <a class="nav-link" href="./portfolio.html">Portfolio</a>
+                </li>
+                <!-- set link saying Contact James goes to contact.html -->
+                <li class="nav-item">
+                  <a class="nav-link" href="./contact.html">Contact James</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
       </div>
     </header>
     <!-- set up container for the page -->

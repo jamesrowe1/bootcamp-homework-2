@@ -15,9 +15,9 @@ h1 {
 }
 
 #navbar {
-  background-color: blue;
   position: relative;
   align-content: center;
+  background: transparent;
 }
 
 body {
