@@ -22,10 +22,20 @@ h1 {
 
 body {
   background-color: lightsalmon;
+  margin: 15px;
 }
 .row h2 {
   text-align: center;
 }
 .card {
   margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 576px) {
+  body {
+    margin: 0;
+  }
+  .container {
+    padding: 0;
+  }
 }
