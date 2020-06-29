@@ -16,10 +16,15 @@ h1 {
 
 #navbar {
   background-color: blue;
+  position: relative;
+  align-content: center;
 }
 
 body {
   background-color: lightsalmon;
+}
+.row h2 {
+  text-align: center;
 }
 .card {
   margin-bottom: 15px;
