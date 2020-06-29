@@ -17,3 +17,10 @@ h1 {
 #navbar {
   background-color: blue;
 }
+
+body {
+  background-color: lightsalmon;
+}
+.card {
+  margin-bottom: 15px;
+}
