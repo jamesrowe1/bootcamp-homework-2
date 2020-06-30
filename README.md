@@ -32,11 +32,11 @@ For any issues contact James Rowe
 
 ## Acknowledgments
 
-Ben Wright
-Justin Simero
-And my study group:
-Justin Ramirez
-Michael Haber
-Gabriel Hernandez
-Tiffany Lombardi
-Melissa Mercado
+- Ben Wright
+- Justin Simero
+- And my study group:
+- Justin Ramirez
+- Michael Haber
+- Gabriel Hernandez
+- Tiffany Lombardi
+- Melissa Mercado
