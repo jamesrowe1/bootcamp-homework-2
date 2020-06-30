@@ -2,7 +2,7 @@ Project Title
 This is the 2nd Homework Assignment for the Columbia Coding Bootcamp. It is about creating a personal portfolio.
 
 Getting Started
-Navigate using the nav bar to the Portfolio Page, the Contact Jame page, and back to the Home page.
+Navigate using the nav bar to the Portfolio Page, the Contact James page, and back to the Home page.
 
 Prerequisites
 You must have a working web browser.
