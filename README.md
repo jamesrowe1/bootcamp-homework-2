@@ -1,9 +1,9 @@
 # Homework1
 
 ## Project Title
-...
+
 This is the 2nd Homework Assignment for the Columbia Coding Bootcamp. It is about creating a personal portfolio.
-...
+
 ## Getting Started
 ...
 Navigate using the nav bar to the Portfolio Page, the Contact James page, and back to the Home page.
