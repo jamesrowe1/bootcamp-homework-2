@@ -30,6 +30,8 @@ body {
 }
 .card {
   margin-bottom: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
 @media only screen and (max-width: 576px) {
   body {
