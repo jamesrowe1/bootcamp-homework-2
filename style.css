@@ -24,18 +24,30 @@ body {
   background-color: lightsalmon;
   margin: 15px;
 }
+
 .row h2 {
   text-align: center;
 }
 .card {
   margin-bottom: 15px;
 }
-
 @media only screen and (max-width: 576px) {
   body {
     margin: 0;
   }
   .container {
+    padding: 0;
+  }
+  .row {
+    margin: 0;
+    padding: 0;
+  }
+  .col,
+  .col-sm-4,
+  .col-sm-8,
+  .col-md-6,
+  .col-md-2 {
+    margin: 0;
     padding: 0;
   }
 }
