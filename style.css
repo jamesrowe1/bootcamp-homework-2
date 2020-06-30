@@ -33,6 +33,9 @@ body {
   margin-right: auto;
   margin-left: auto;
 }
+footer {
+  text-align: center;
+}
 @media only screen and (max-width: 576px) {
   body {
     margin: 0;
