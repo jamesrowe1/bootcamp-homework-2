@@ -4,6 +4,14 @@
 
 This is the 2nd Homework Assignment for the Columbia Coding Bootcamp. It is about creating a personal portfolio.
 
+## Project Link
+
+hhttps://jamesrowe1.github.io/james_rowe_portfolio/
+
+## Screenshot
+
+![codequiz](./images/readmePic.jpg)
+
 ## Getting Started
 
 Navigate using the nav bar to the Portfolio Page, the Contact James page, and back to the Home page.
