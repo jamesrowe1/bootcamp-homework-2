@@ -6,7 +6,7 @@ This is the 2nd Homework Assignment for the Columbia Coding Bootcamp. It is abou
 
 ## Project Link
 
-hhttps://jamesrowe1.github.io/james_rowe_portfolio/
+https://jamesrowe1.github.io/james_rowe_portfolio/
 
 ## Screenshot
 
