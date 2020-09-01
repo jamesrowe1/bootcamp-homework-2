@@ -34,10 +34,10 @@ function App() {
           explanation="Want to jot down a quick thought, or a note for later? Try out the Note Taker!" 
           github="https://github.com/jamesrowe1/notetakerscreenshot.jpg"/>
         <Project 
-          screenshot={require("./assets/notetakerscreenshot.jpg")} 
+          screenshot={require("./assets/giacpscreenshot.jpg")} 
           title="GIACP" 
           explanation="The brand new website for Gastroentorolgy Associates of Central Pennsylvania." 
-          github="https://github.com/jamesrowe1/notetakerscreenshot.jpg"/>
+          github="https://github.com/jamesrowe1/giacp"/>
       </div>
     </div>
   );
