@@ -19,10 +19,10 @@ function App() {
           explanation="ZAP: GAME ON! A search engine specifically for video games, allowing you to find any game you can imagine, and find the best price to buy it at!" 
           github="https://github.com/jamesrowe1/ZAP"/>
         <Project 
-          screenshot={require("./assets/offline-budget-tracker-screenshot.jpg")} 
-          title="Offline Budget Tracker" 
-          explanation="Nothing is worse than trying to be responsible and track your expenses, but then seeing you don't have service when you buy something. The Offline Budget Tracker fixes that issue, by allowing you to keep track of your budget even when you are undergroun or on a plane!" 
-          github="https://github.com/jamesrowe1/offline-budget-tracker"/>
+          screenshot={require("./assets/weather-dash.jpg")} 
+          title="Weather Dashboard" 
+          explanation="Check your current weather and a forecast for the next 5 days!" 
+          github="https://github.com/jamesrowe1/weather-dashboard"/>
         <Project 
           screenshot={require("./assets/workouttracker.jpg")} 
           title="Workout Tracker" 

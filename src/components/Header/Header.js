@@ -1,5 +1,6 @@
 import React from "react";
 import "./Header.css";
+import homelink from "../../assets/home.png"
 const Header = () => {
   
   return (
@@ -9,13 +10,13 @@ const Header = () => {
             <h2>Full Stack Web Developer</h2>
             </div>
           <a
-            className="App-link"
-            href="rowejamesa@gmail.com"
-            target="_blank"
+            className="home"
+            href="#top"
             rel="noopener noreferrer"
           >
-            Learn React
+            <img src={homelink} alt="home button" class="nav"></img>
           </a>
+          
         </div>
       )
 }

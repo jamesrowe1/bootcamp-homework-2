@@ -12,5 +12,19 @@
     background: black;
     color: white;
     padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2 {
+    text-align: center;
     margin: 0 auto;
+}
+
+.nav {
+    position: fixed;
+    left: 10px;
+    top: 10px;
 }
