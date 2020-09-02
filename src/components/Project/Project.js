@@ -4,7 +4,7 @@ import "./Project.css";
 const Project = ({screenshot, title, explanation, github}) => {
    return (
     <div className="col-md-4">
-        <div className="card">
+        <div className="card project-card">
         <img src={screenshot} className="card-img-top" alt={title}/>
         <div className="card-body">
         <h5 className="card-title">{title}</h5>

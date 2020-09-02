@@ -1,0 +1,9 @@
+.languageLogo {
+    opacity: 0;
+}
+
+img:hover {
+    opacity: 0.85;
+    -webkit-transition: opacity 1s;
+    transition: opacity 1s;
+}
