@@ -1,5 +1,6 @@
 .languageLogo {
-
+    display: block;
+    opacity: .85;
     margin-left: auto;
     margin-right: auto
 }
@@ -9,13 +10,16 @@ img:hover {
     -webkit-transition: opacity 1s;
     transition: opacity 1s;
 }
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 769px) {
     .languageLogo {
         opacity: 0;
     }
 }
-@media only screen and (max-width: 600px) {
-    .languagelogo {
-      opacity: .85
+@media only screen and (max-width: 768px) {
+    .languageLogo {
+        opacity: .85
+    }
+    .col-md-2 {
+        margin: 10px
     }
   }

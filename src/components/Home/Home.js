@@ -9,24 +9,24 @@ import mongoDBSymbol from "../../assets/mongodb-symbol.png"
 const Home = () => {
     return (
     <div>
-        <div class="row">
-            <div class="col-md-2">
-                <img src={jsSymbol} alt="JS symbol" class="languageLogo img-fluid" />
+        <div className="row">
+            <div className="col-md-2">
+                <img src={jsSymbol} alt="JS symbol" className="languageLogo img-fluid" />
             </div>
-            <div class="col-md-2">
-                <img src={jQuerySymbol} alt="JS symbol" class="languageLogo img-fluid" />
+            <div className="col-md-2">
+                <img src={jQuerySymbol} alt="JS symbol" className="languageLogo img-fluid" />
             </div>
-            <div class="col-md-2">
-                <img src={reactSymbol} alt="JS symbol" class="languageLogo img-fluid" />
+            <div className="col-md-2">
+                <img src={reactSymbol} alt="JS symbol" className="languageLogo img-fluid" />
             </div>
-            <div class="col-md-2">
-                <img src={cssSymbol} alt="JS symbol" class="languageLogo img-fluid" />
+            <div className="col-md-2">
+                <img src={cssSymbol} alt="JS symbol" className="languageLogo img-fluid" />
             </div>
-            <div class="col-md-2">
-                <img src={htmlSymbol} alt="JS symbol" class="languageLogo img-fluid" />
+            <div className="col-md-2">
+                <img src={htmlSymbol} alt="JS symbol" className="languageLogo img-fluid" />
             </div>
-            <div class="col-md-2">
-                <img src={mongoDBSymbol} alt="JS symbol" class="languageLogo img-fluid" />
+            <div className="col-md-2">
+                <img src={mongoDBSymbol} alt="JS symbol" className="languageLogo img-fluid" />
             </div>
         </div>
     </div>
