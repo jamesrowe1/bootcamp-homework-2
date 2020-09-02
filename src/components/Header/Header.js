@@ -14,7 +14,7 @@ const Header = () => {
             <li className="nav-item">
               <a
                 className="nav-link active"
-                href="/home"
+                href="james_rowe_portfolio/home"
                 rel="noopener noreferrer"
               >
                 <img src={homelink} alt="home button"></img>
@@ -23,7 +23,7 @@ const Header = () => {
             <li className="nav-item">
               <a
                 className="nav-link active"
-                href="/portfolio"
+                href="james_rowe_portfolio/portfolio"
                 rel="noopener noreferrer"
               >
                 <img src={portfolio} alt="portfolio"></img>

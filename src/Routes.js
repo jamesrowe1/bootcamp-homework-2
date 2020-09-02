@@ -3,7 +3,7 @@ import Portfolio from "./components/Portfolio/Portfolio"
 import Header from "./components/Header/Header"
 import Home from "./components/Home/Home"
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Switch,
   Route
 } from "react-router-dom";
@@ -17,13 +17,13 @@ const Routes = () => {
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Switch>
-        <Route path={`${process.env.PUBLIC_URL}/home`}>
+        <Route path="/home">
             <Home />
           </Route>
           <Route path="/users">
             <h1>Portfolio</h1>
           </Route>
-          <Route path={`${process.env.PUBLIC_URL}/portfolio`}>
+          <Route path="/portfolio">
             <Portfolio />
           </Route>
         </Switch>
