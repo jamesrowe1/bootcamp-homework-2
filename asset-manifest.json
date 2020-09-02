@@ -1,30 +1,33 @@
 {
   "files": {
-    "main.css": "/james_rowe_portfolio/static/css/main.c2f686b1.chunk.css",
-    "main.js": "/james_rowe_portfolio/static/js/main.1b205235.chunk.js",
-    "main.js.map": "/james_rowe_portfolio/static/js/main.1b205235.chunk.js.map",
+    "main.css": "/james_rowe_portfolio/static/css/main.b2f3e3a5.chunk.css",
+    "main.js": "/james_rowe_portfolio/static/js/main.c035437f.chunk.js",
+    "main.js.map": "/james_rowe_portfolio/static/js/main.c035437f.chunk.js.map",
     "runtime-main.js": "/james_rowe_portfolio/static/js/runtime-main.5b0c7d28.js",
     "runtime-main.js.map": "/james_rowe_portfolio/static/js/runtime-main.5b0c7d28.js.map",
-    "static/js/2.d023ec54.chunk.js": "/james_rowe_portfolio/static/js/2.d023ec54.chunk.js",
-    "static/js/2.d023ec54.chunk.js.map": "/james_rowe_portfolio/static/js/2.d023ec54.chunk.js.map",
+    "static/js/2.60c53541.chunk.js": "/james_rowe_portfolio/static/js/2.60c53541.chunk.js",
+    "static/js/2.60c53541.chunk.js.map": "/james_rowe_portfolio/static/js/2.60c53541.chunk.js.map",
     "index.html": "/james_rowe_portfolio/index.html",
-    "precache-manifest.c4e81927c0f1afaf50549d0ac8229e1e.js": "/james_rowe_portfolio/precache-manifest.c4e81927c0f1afaf50549d0ac8229e1e.js",
+    "precache-manifest.f95b4b878af7d5547231de964ab38018.js": "/james_rowe_portfolio/precache-manifest.f95b4b878af7d5547231de964ab38018.js",
     "service-worker.js": "/james_rowe_portfolio/service-worker.js",
-    "static/css/main.c2f686b1.chunk.css.map": "/james_rowe_portfolio/static/css/main.c2f686b1.chunk.css.map",
-    "static/js/2.d023ec54.chunk.js.LICENSE.txt": "/james_rowe_portfolio/static/js/2.d023ec54.chunk.js.LICENSE.txt",
+    "static/css/main.b2f3e3a5.chunk.css.map": "/james_rowe_portfolio/static/css/main.b2f3e3a5.chunk.css.map",
+    "static/js/2.60c53541.chunk.js.LICENSE.txt": "/james_rowe_portfolio/static/js/2.60c53541.chunk.js.LICENSE.txt",
+    "static/media/css-symbol.png": "/james_rowe_portfolio/static/media/css-symbol.9e63bd85.png",
     "static/media/giacpscreenshot.jpg": "/james_rowe_portfolio/static/media/giacpscreenshot.f6bc32ba.jpg",
     "static/media/index.css": "/james_rowe_portfolio/static/media/hacking.86b14d78.gif",
     "static/media/iclassroom.jpg": "/james_rowe_portfolio/static/media/iclassroom.0a33165a.jpg",
     "static/media/jquery-symbol.jpg": "/james_rowe_portfolio/static/media/jquery-symbol.a9c6457a.jpg",
+    "static/media/mongodb-symbol.png": "/james_rowe_portfolio/static/media/mongodb-symbol.c00129be.png",
     "static/media/notetakerscreenshot.jpg": "/james_rowe_portfolio/static/media/notetakerscreenshot.ae7daa67.jpg",
+    "static/media/react-symbol.png": "/james_rowe_portfolio/static/media/react-symbol.caf67927.png",
     "static/media/weather-dash.jpg": "/james_rowe_portfolio/static/media/weather-dash.d7c4cd0c.jpg",
     "static/media/workouttracker.jpg": "/james_rowe_portfolio/static/media/workouttracker.9e8912f8.jpg",
     "static/media/zap.jpg": "/james_rowe_portfolio/static/media/zap.b5740512.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5b0c7d28.js",
-    "static/js/2.d023ec54.chunk.js",
-    "static/css/main.c2f686b1.chunk.css",
-    "static/js/main.1b205235.chunk.js"
+    "static/js/2.60c53541.chunk.js",
+    "static/css/main.b2f3e3a5.chunk.css",
+    "static/js/main.c035437f.chunk.js"
   ]
 }
