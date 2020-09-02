@@ -17,13 +17,13 @@ const Routes = () => {
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Switch>
-        <Route path="/home">
+        <Route path={`${process.env.PUBLIC_URL}/home`}>
             <Home />
           </Route>
           <Route path="/users">
             <h1>Portfolio</h1>
           </Route>
-          <Route path="/portfolio">
+          <Route path={`${process.env.PUBLIC_URL}/portfolio`}>
             <Portfolio />
           </Route>
         </Switch>
