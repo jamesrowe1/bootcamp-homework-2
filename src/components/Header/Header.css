@@ -16,7 +16,30 @@
 
 .nav {
     position: fixed;
-    left: 10px;
     top: 10px;
     z-index: 100
 }
+
+a p {
+    display: none
+}
+
+@media only screen and (min-width: 601px) {
+    .nav {
+        left: 10px;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .nav {
+        flex-direction: row!important;
+        right: 10px
+    }
+    a img {
+        display: none
+    }
+    a p {
+        display: block;
+        color: white;
+        text-align: center
+    }
+  }

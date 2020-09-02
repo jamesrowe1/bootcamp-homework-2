@@ -14,19 +14,21 @@ const Header = () => {
             <li className="nav-item">
               <a
                 className="nav-link active"
-                href="james_rowe_portfolio/home"
+                href="#/"
                 rel="noopener noreferrer"
               >
                 <img src={homelink} alt="home button"></img>
+                <p>Home</p>
               </a>
             </li>
             <li className="nav-item">
               <a
                 className="nav-link active"
-                href="james_rowe_portfolio/portfolio"
+                href="#/portfolio"
                 rel="noopener noreferrer"
               >
                 <img src={portfolio} alt="portfolio"></img>
+                <p>Portfolio</p>
               </a>
               </li>
           </ul>

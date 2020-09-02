@@ -1,5 +1,7 @@
 .languageLogo {
     opacity: 0;
+    margin-left: auto;
+    margin-right: auto
 }
 
 img:hover {
@@ -7,3 +9,9 @@ img:hover {
     -webkit-transition: opacity 1s;
     transition: opacity 1s;
 }
+
+@media only screen and (max-width: 600px) {
+    .languagelogo {
+      opacity: .85
+    }
+  }
